@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <style name="CustomText2"  >
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+</resources>
